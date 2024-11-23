@@ -10,21 +10,21 @@
 }
 
 .profile-image {
-    width: 150px;
+    width: 100px;
     height: auto;
     border-radius: 50%;
 }
 
 body {
-    font-family: Cambria, sans-serif;
+    font-family:f031;
     margin: 0;
-    padding: 0;
-    background-color: #f7cac9;
+    padding: 20px;
+    background-color:Serenity;
 }
 
 header {
-    background: 	#b4c8ea;
-    color: #fff;
+    background:Rose Quartz;
+    color:white;
     padding: 20px;
     text-align: center;
 }
@@ -44,14 +44,14 @@ nav ul li {
 }
 
 nav ul li a {
-    color: #f7cac9;;
+    color: Rose Quartz;
     text-decoration: none;
 }
 
 .introduction, .skills, .featured-projects, .personal-info, .experience {
     padding: 20px;
     margin: 20px;
-    background: #f7cac9;
+    background: Serenity;
     border-radius: 5px;
 }
 
@@ -59,19 +59,19 @@ nav ul li a {
     max-width: 800px; 
     margin: 50px auto;
     padding: 20px;
-    background: #b4c8ea
+    background: Serenity
     border-radius: 8px;
     box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
 }
 
 h2 {
     text-align: Left;
-    color: 	#91a8d0
+    color: 	Rose Quartz;
 }
 
 h3 {
     text-align: Left;
-    color: 	#91a8d0
+    color: 	Rose Quartz
 }
 
 .about-content {
@@ -103,7 +103,7 @@ h3 {
 
 h2 {
     text-align: center;
-    color: 	#91a8d0
+    color: 	Rose Quartz
 }
 
 .contact-form {
@@ -114,7 +114,7 @@ h2 {
 label {
     margin-bottom: 5px;
     font-weight: bold;
-    color: #ffdcdb
+    color: White
 }
 
 input[type="text"],
@@ -122,14 +122,14 @@ input[type="email"],
 textarea {
     padding: 10px;
     margin-bottom: 15px;
-    border: 1px solid #ffdcdb
+    border: 1px solid Serenity;
     border-radius: 5px;
     width: 100%; 
 }
 
 .send-button {
     padding: 10px;
-    background: #b4c8ea
+    background: Serenity;
     color: white;
     border: none;
     border-radius: 5px;
@@ -138,7 +138,7 @@ textarea {
 }
 
 .send-button:hover {
-    background: #b4c8ea
+    background: Serenity;
 }
 
 .contact-info {
@@ -147,7 +147,7 @@ textarea {
     padding: 20px;
     background: white;
     border-radius: 8px;
-    color: #070707;
+    color: white;
     box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
 }
 
@@ -167,7 +167,7 @@ textarea {
 }
 
 .contact-info a {
-    color: #b4c8ea
+    color: white;
     text-decoration: none;
 }
 
@@ -178,8 +178,8 @@ textarea {
 footer {
     text-align: center;
     padding: 10px 0;
-    background: #333;
-    color: #fff;
+    background: Rose Quartz;
+    color: Serenity;
     position: relative;
     bottom: 0;
     width: 100%;
